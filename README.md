@@ -3,7 +3,10 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> Champ de formulaire permettant d'autocompléter une adresse GRATUITEMENT avec comme source de données l'API Adresse du gouvernement.
+> Champ de formulaire permettant d'autocompléter une adresse GRATUITEMENT avec comme source de données l'[API Adresse du gouvernement](https://geo.api.gouv.fr/adresse).
+
+<img src="img1.png" height="40px"/>
+<img src="img2.png" height="40px"/>
 
 ## Install
 
